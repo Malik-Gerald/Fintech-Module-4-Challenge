@@ -1,5 +1,3 @@
-# Fintech-Module-4-Challenge
-
 # Qantitative Analysis Of Select Portfolios
 
 The fourth module asks that I assume the role of a financial analyst for a FinTech investing platform. In this exercise we have leveraged Pandas to evaluate the performance, volatility, risk, risk-return profile and portfolio diversification in order to make a judgement on which portfolio product would be best to offer to our clients. 
